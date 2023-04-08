@@ -1,0 +1,15 @@
+,T1,T2,Winner,Prediction,,
+0,Australia,New Zealand,T2,T2,Y,0
+1,India,Pakistan,T1,T1,Y,1
+2,Australia,Sri Lanka,T1,T1,Y,1
+3,South Africa,Bangladesh,T1,T1,Y,1
+4,New Zealand,Sri Lanka,T1,T1,Y,1
+5,India,South Africa,T2,T1,N,1
+6,England,New Zealand,T1,T1,Y,1
+7,India,Bangladesh,T1,T1,Y,1
+8,Pakistan,South Africa,T1,T2,N,0
+9,England,Sri Lanka,T1,T1,Y,1
+10,Pakistan,Bangladesh,T1,T1,Y,1
+11,Pakistan,New Zealand,T1,T1,Y,1
+12,India,England,T2,T1,N,1
+13,Pakistan,England,T2,T2,Y,0
